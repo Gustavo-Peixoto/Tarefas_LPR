@@ -12,3 +12,4 @@ C:\Users\Alunos\Desktop\Tarefas_LPR\aula3\exerc3\obj\Debug\net9.0\refint\exerc3.
 C:\Users\Alunos\Desktop\Tarefas_LPR\aula3\exerc3\obj\Debug\net9.0\exerc3.pdb
 C:\Users\Alunos\Desktop\Tarefas_LPR\aula3\exerc3\obj\Debug\net9.0\exerc3.genruntimeconfig.cache
 C:\Users\Alunos\Desktop\Tarefas_LPR\aula3\exerc3\obj\Debug\net9.0\ref\exerc3.dll
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula3\exerc3\obj\Debug\net9.0\exerc3.sourcelink.json
