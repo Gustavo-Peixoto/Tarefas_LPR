@@ -1,0 +1,15 @@
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\bin\Debug\net9.0\exerc1.exe
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\bin\Debug\net9.0\exerc1.deps.json
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\bin\Debug\net9.0\exerc1.runtimeconfig.json
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\bin\Debug\net9.0\exerc1.dll
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\bin\Debug\net9.0\exerc1.pdb
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\obj\Debug\net9.0\exerc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\obj\Debug\net9.0\exerc1.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\obj\Debug\net9.0\exerc1.AssemblyInfo.cs
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\obj\Debug\net9.0\exerc1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\obj\Debug\net9.0\exerc1.sourcelink.json
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\obj\Debug\net9.0\exerc1.dll
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\obj\Debug\net9.0\refint\exerc1.dll
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\obj\Debug\net9.0\exerc1.pdb
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\obj\Debug\net9.0\exerc1.genruntimeconfig.cache
+C:\Users\gusta\Desktop\code\lpl\lprGit\Tarefas_LPR\aula5\exerc1\obj\Debug\net9.0\ref\exerc1.dll
