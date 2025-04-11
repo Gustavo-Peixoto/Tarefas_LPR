@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\Desktop\\code\\lpl\\lprGit\\Tarefas_LPR\\aula3\\exerc1\\exerc1.csproj": {}
+    "C:\\Users\\gusta\\Desktop\\code\\lpl\\lprGit\\Tarefas_LPR\\aula6\\exerc3\\exerc3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\Desktop\\code\\lpl\\lprGit\\Tarefas_LPR\\aula3\\exerc1\\exerc1.csproj": {
+    "C:\\Users\\gusta\\Desktop\\code\\lpl\\lprGit\\Tarefas_LPR\\aula6\\exerc3\\exerc3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\code\\lpl\\lprGit\\Tarefas_LPR\\aula3\\exerc1\\exerc1.csproj",
-        "projectName": "exerc1",
-        "projectPath": "C:\\Users\\gusta\\Desktop\\code\\lpl\\lprGit\\Tarefas_LPR\\aula3\\exerc1\\exerc1.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\code\\lpl\\lprGit\\Tarefas_LPR\\aula6\\exerc3\\exerc3.csproj",
+        "projectName": "exerc3",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\code\\lpl\\lprGit\\Tarefas_LPR\\aula6\\exerc3\\exerc3.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Desktop\\code\\lpl\\lprGit\\Tarefas_LPR\\aula3\\exerc1\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\code\\lpl\\lprGit\\Tarefas_LPR\\aula6\\exerc3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
