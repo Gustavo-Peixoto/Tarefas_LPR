@@ -14,6 +14,7 @@ struct Livro
 
 int main(){
     vector<Livro>livros(3);
+    //[][][] 
     for(int i = 0; i < 3; i++){
         cout << "Digite o titulo do "<< i  <<" livro:"<<endl;
         cin >> livros[i].titulo;
