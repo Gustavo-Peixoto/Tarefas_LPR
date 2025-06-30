@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\bin\Debug\net9.0\Exemplo.exe
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\bin\Debug\net9.0\Exemplo.deps.json
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\bin\Debug\net9.0\Exemplo.runtimeconfig.json
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\bin\Debug\net9.0\Exemplo.dll
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\bin\Debug\net9.0\Exemplo.pdb
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\obj\Debug\net9.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\obj\Debug\net9.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\obj\Debug\net9.0\Exemplo.sourcelink.json
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\obj\Debug\net9.0\Exemplo.dll
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\obj\Debug\net9.0\refint\Exemplo.dll
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\obj\Debug\net9.0\Exemplo.pdb
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\obj\Debug\net9.0\Exemplo.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula9\Exemplo\obj\Debug\net9.0\ref\Exemplo.dll
