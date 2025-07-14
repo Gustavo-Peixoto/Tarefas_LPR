@@ -7,7 +7,6 @@ using namespace std;
 
 int main(){
     list<int>nums;
-    list<int>repetidos;
     srand(time(0));
     for(int i = 0; i < 100; i++) nums.push_back(rand() % 51);
 
