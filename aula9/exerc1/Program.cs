@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-class exerc1
+class Program
 {
     static void Main()
     {
