@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\bin\Debug\net8.0\exerc2.exe
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\bin\Debug\net8.0\exerc2.deps.json
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\bin\Debug\net8.0\exerc2.runtimeconfig.json
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\bin\Debug\net8.0\exerc2.dll
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\bin\Debug\net8.0\exerc2.pdb
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\obj\Debug\net8.0\exerc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\obj\Debug\net8.0\exerc2.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\obj\Debug\net8.0\exerc2.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\obj\Debug\net8.0\exerc2.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\obj\Debug\net8.0\exerc2.sourcelink.json
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\obj\Debug\net8.0\exerc2.dll
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\obj\Debug\net8.0\refint\exerc2.dll
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\obj\Debug\net8.0\exerc2.pdb
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\obj\Debug\net8.0\exerc2.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Tarefas_LPR\aula10\exerc2\exerc2\obj\Debug\net8.0\ref\exerc2.dll

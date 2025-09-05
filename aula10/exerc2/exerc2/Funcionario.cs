@@ -10,7 +10,7 @@ namespace exerc2
     {
         public string nome;
         public int salario;
-        public double imposto;
+        private double imposto;
 
         public void Dadosfuncionarios()
         {
